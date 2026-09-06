@@ -36,6 +36,3 @@ Verilog implementations of a PWM controller and a 4-bit FIFO buffer.
 
 ---
 
-### 📊 GitHub Stats
-
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladLunca&show_icons=true&theme=default&hide_border=true)
